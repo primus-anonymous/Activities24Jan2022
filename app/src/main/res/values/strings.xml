@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activities24Jan2022</string>
+    <string name="lifecycle">I\'m a lifecycle activity</string>
+    <string name="open_lifecycle">Open Lifecycle</string>
+    <string name="open_counter">Open Counter</string>
+    <string name="increase">Increase</string>
+    <string name="input_hint">Hint</string>
+    <string name="enter_initial_count">Enter initial count</string>
+    <string name="close">Close</string>
+</resources>
